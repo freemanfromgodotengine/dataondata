@@ -1,314 +1,314 @@
 <?xml version="1.0"?>
-<Data>
-dnia: 16-03-20 godzina: 03:31:51
-</Data>
-<Zachorowania>
-  <Dane>
-    <Wojewodztwo>Województwo</Wojewodztwo>
-    <Powiat>Powiat/Miasto</Miasto>
-    <Liczba>Liczba</Liczba>
-    <Zgonow>Liczba zgonów
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>Cała Polska</Wojewodztwo>
-    <Powiat>Łącznie</Miasto>
-    <Liczba>125</Liczba>
-    <Zgonow>3
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>będziński</Miasto>
-    <Liczba>2</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubelskie</Wojewodztwo>
-    <Powiat>biłgorajski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>dolnośląskie</Wojewodztwo>
-    <Powiat>bolesławiecki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>Chorzów</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>cieszyński</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>pomorskie</Wojewodztwo>
-    <Powiat>Gdańsk</Miasto>
-    <Liczba>2</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubuskie</Wojewodztwo>
-    <Powiat>Gorzów Wielkopolski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubelskie</Wojewodztwo>
-    <Powiat>janowski</Miasto>
-    <Liczba>5</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>świętokrzyskie</Wojewodztwo>
-    <Powiat>Kielce</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>małopolskie</Wojewodztwo>
-    <Powiat>Kraków</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>opolskie</Wojewodztwo>
-    <Powiat>krapkowicki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>dolnośląskie</Wojewodztwo>
-    <Powiat>Legnica</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>podkarpackie</Wojewodztwo>
-    <Powiat>leżajski</Miasto>
-    <Liczba>7</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubelskie</Wojewodztwo>
-    <Powiat>lubartowski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubelskie</Wojewodztwo>
-    <Powiat>Lublin</Miasto>
-    <Liczba>9</Liczba>
-    <Zgonow>1
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>łódzki wschodni</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>Łódź</Miasto>
-    <Liczba>12</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>dolnośląskie</Wojewodztwo>
-    <Powiat>oleśnicki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>warmińsko-mazurskie</Wojewodztwo>
-    <Powiat>Olsztyn</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>świętokrzyskie</Wojewodztwo>
-    <Powiat>ostrowiecki</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>warmińsko-mazurskie</Wojewodztwo>
-    <Powiat>ostródzki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>pabianicki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>mazowieckie</Wojewodztwo>
-    <Powiat>piaseczyński</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>poddębicki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>zachodniopomorskie</Wojewodztwo>
-    <Powiat>policki</Miasto>
-    <Liczba>2</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>wielkopolskie</Wojewodztwo>
-    <Powiat>Poznań</Miasto>
-    <Liczba>7</Liczba>
-    <Zgonow>1
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>mazowieckie</Wojewodztwo>
-    <Powiat>pruszkowski</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>Rybnik</Miasto>
-    <Liczba>5</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>podkarpackie</Wojewodztwo>
-    <Powiat>Rzeszów</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubuskie</Wojewodztwo>
-    <Powiat>słubicki</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>Sosnowiec</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>zachodniopomorskie</Wojewodztwo>
-    <Powiat>stargardzki</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>opolskie</Wojewodztwo>
-    <Powiat>strzelecki</Miasto>
-    <Liczba>3</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>zachodniopomorskie</Wojewodztwo>
-    <Powiat>Szczecin</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>warmińsko-mazurskie</Wojewodztwo>
-    <Powiat>szczycieński</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>tarnogórski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>lubelskie</Wojewodztwo>
-    <Powiat>tomaszowski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>tomaszowski</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>mazowieckie</Wojewodztwo>
-    <Powiat>Warszawa</Miasto>
-    <Liczba>19</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>dolnośląskie</Wojewodztwo>
-    <Powiat>Wrocław</Miasto>
-    <Liczba>11</Liczba>
-    <Zgonow>1
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>śląskie</Wojewodztwo>
-    <Powiat>zawierciański</Miasto>
-    <Liczba>1</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-  <Dane>
-    <Wojewodztwo>łódzkie</Wojewodztwo>
-    <Powiat>zgierski</Miasto>
-    <Liczba>2</Liczba>
-    <Zgonow>
-</Zgonow>
-  </Dane>
-</Zachorowania>
+<data>
+dnia: 16-03-20 godzina: 03:40:18
+</data>
+<zachorowania>
+  <dane>
+    <wojewodztwo>Województwo</wojewodztwo>
+    <miasto>Powiat/Miasto</miasto>
+    <przypadki>Liczba</przypadki>
+    <zgony>Liczba zgonów
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>Cała Polska</wojewodztwo>
+    <miasto>Łącznie</miasto>
+    <przypadki>125</przypadki>
+    <zgony>3
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>będziński</miasto>
+    <przypadki>2</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubelskie</wojewodztwo>
+    <miasto>biłgorajski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>dolnośląskie</wojewodztwo>
+    <miasto>bolesławiecki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>Chorzów</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>cieszyński</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>pomorskie</wojewodztwo>
+    <miasto>Gdańsk</miasto>
+    <przypadki>2</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubuskie</wojewodztwo>
+    <miasto>Gorzów Wielkopolski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubelskie</wojewodztwo>
+    <miasto>janowski</miasto>
+    <przypadki>5</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>świętokrzyskie</wojewodztwo>
+    <miasto>Kielce</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>małopolskie</wojewodztwo>
+    <miasto>Kraków</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>opolskie</wojewodztwo>
+    <miasto>krapkowicki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>dolnośląskie</wojewodztwo>
+    <miasto>Legnica</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>podkarpackie</wojewodztwo>
+    <miasto>leżajski</miasto>
+    <przypadki>7</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubelskie</wojewodztwo>
+    <miasto>lubartowski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubelskie</wojewodztwo>
+    <miasto>Lublin</miasto>
+    <przypadki>9</przypadki>
+    <zgony>1
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>łódzki wschodni</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>Łódź</miasto>
+    <przypadki>12</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>dolnośląskie</wojewodztwo>
+    <miasto>oleśnicki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
+    <miasto>Olsztyn</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>świętokrzyskie</wojewodztwo>
+    <miasto>ostrowiecki</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
+    <miasto>ostródzki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>pabianicki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>mazowieckie</wojewodztwo>
+    <miasto>piaseczyński</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>poddębicki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>zachodniopomorskie</wojewodztwo>
+    <miasto>policki</miasto>
+    <przypadki>2</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>wielkopolskie</wojewodztwo>
+    <miasto>Poznań</miasto>
+    <przypadki>7</przypadki>
+    <zgony>1
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>mazowieckie</wojewodztwo>
+    <miasto>pruszkowski</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>Rybnik</miasto>
+    <przypadki>5</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>podkarpackie</wojewodztwo>
+    <miasto>Rzeszów</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubuskie</wojewodztwo>
+    <miasto>słubicki</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>Sosnowiec</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>zachodniopomorskie</wojewodztwo>
+    <miasto>stargardzki</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>opolskie</wojewodztwo>
+    <miasto>strzelecki</miasto>
+    <przypadki>3</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>zachodniopomorskie</wojewodztwo>
+    <miasto>Szczecin</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
+    <miasto>szczycieński</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>tarnogórski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>lubelskie</wojewodztwo>
+    <miasto>tomaszowski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>tomaszowski</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>mazowieckie</wojewodztwo>
+    <miasto>Warszawa</miasto>
+    <przypadki>19</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>dolnośląskie</wojewodztwo>
+    <miasto>Wrocław</miasto>
+    <przypadki>11</przypadki>
+    <zgony>1
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>śląskie</wojewodztwo>
+    <miasto>zawierciański</miasto>
+    <przypadki>1</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+  <dane>
+    <wojewodztwo>łódzkie</wojewodztwo>
+    <miasto>zgierski</miasto>
+    <przypadki>2</przypadki>
+    <zgony>
+</zgony>
+  </dane>
+</zachorowania>
