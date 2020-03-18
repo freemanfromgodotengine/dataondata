@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<statystyki>
+  <dane>
+    <data>04-03-20</data>
+    <przypadkow>1</przypadkow>
+
+  </dane>
+  <dane>
+    <data>05-03-20</data>
+    <przypadkow>1</przypadkow>
+
+  </dane>
+  <dane>
+    <data>06-03-20</data>
+    <przypadkow>3</przypadkow>
+
+  </dane>
+  <dane>
+    <data>07-03-20</data>
+    <przypadkow>6</przypadkow>
+
+  </dane>
+  <dane>
+    <data>08-03-20</data>
+    <przypadkow>11</przypadkow>
+
+  </dane>
+  <dane>
+    <data>09-03-20</data>
+    <przypadkow>17</przypadkow>
+
+  </dane>
+  <dane>
+    <data>10-03-20</data>
+    <przypadkow>22</przypadkow>
+
+  </dane>
+  <dane>
+    <data>11-03-20</data>
+    <przypadkow>31</przypadkow>
+
+  </dane>
+  <dane>
+    <data>12-03-20</data>
+    <przypadkow>51</przypadkow>
+
+  </dane>
+  <dane>
+    <data>13-03-20</data>
+    <przypadkow>68</przypadkow>
+
+  </dane>
+  <dane>
+    <data>14-03-20</data>
+    <przypadkow>104</przypadkow>
+
+  </dane>
+  <dane>
+    <data>15-03-20</data>
+    <przypadkow>125</przypadkow>
+
+  </dane>
+  <dane>
+    <data>16-03-20</data>
+    <przypadkow>177</przypadkow>
+
+  </dane>
+  <dane>
+    <data>17-03-20</data>
+    <przypadkow>238</przypadkow>
+
+  </dane>
+  <dane>
+    <data>18-03-20</data>
+    <przypadkow>251</przypadkow>
+
+  </dane>
+</statystyki>
