@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 18-03-20 godzina: 03:48:42
+dnia: 18-03-20 godzina: 14:37:22
 </data>
 <zachorowania>
   <dane>
@@ -11,7 +11,7 @@ dnia: 18-03-20 godzina: 03:48:42
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>238</przypadki>
+    <przypadki>251</przypadki>
     <zgony>5
 </zgony>
   </dane>
@@ -35,7 +35,7 @@ dnia: 18-03-20 godzina: 03:48:42
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>2</przypadki>
+    <przypadki>3</przypadki>
     <zgony>
 </zgony>
   </dane>
@@ -47,7 +47,7 @@ dnia: 18-03-20 godzina: 03:48:42
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>5</przypadki>
+    <przypadki>6</przypadki>
     <zgony>
 </zgony>
   </dane>
@@ -65,13 +65,13 @@ dnia: 18-03-20 godzina: 03:48:42
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>11</przypadki>
+    <przypadki>14</przypadki>
     <zgony>1
 </zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>1</przypadki>
+    <przypadki>2</przypadki>
     <zgony>
 </zgony>
   </dane>
@@ -83,19 +83,19 @@ dnia: 18-03-20 godzina: 03:48:42
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>24</przypadki>
+    <przypadki>26</przypadki>
     <zgony>
 </zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>3</przypadki>
+    <przypadki>4</przypadki>
     <zgony>
 </zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>7</przypadki>
+    <przypadki>11</przypadki>
     <zgony>
 </zgony>
   </dane>
