@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 18-03-20 godzina: 03:29:42
+dnia: 18-03-20 godzina: 05:29:42
 </data>
 <zachorowania>
   <dane>
@@ -11,8 +11,8 @@ dnia: 18-03-20 godzina: 03:29:42
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>238</przypadki>
-    <zgony>5
+    <przypadki>12238</przypadki>
+    <zgony>125
 </zgony>
   </dane>
   <dane>
