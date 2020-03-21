@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 20-03-20 godzina: 02:53:32
+dnia: 21-03-20 godzina: 03:24:51
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 20-03-20 godzina: 02:53:32
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>355</przypadki>
+    <przypadki>425</przypadki>
     <zgony>5</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>53</przypadki>
+    <przypadki>58</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>11</przypadki>
+    <przypadki>14</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>25</przypadki>
+    <przypadki>28</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -35,17 +35,17 @@ dnia: 20-03-20 godzina: 02:53:32
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>48</przypadki>
+    <przypadki>57</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>7</przypadki>
+    <przypadki>14</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>82</przypadki>
+    <przypadki>107</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -55,37 +55,37 @@ dnia: 20-03-20 godzina: 02:53:32
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>17</przypadki>
+    <przypadki>19</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>1</przypadki>
+    <przypadki>3</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>9</przypadki>
+    <przypadki>10</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>42</przypadki>
+    <przypadki>46</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>5</przypadki>
+    <przypadki>6</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>12</przypadki>
+    <przypadki>17</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>15</przypadki>
+    <przypadki>18</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
