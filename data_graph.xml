@@ -68,8 +68,16 @@
     <data>20-03-20</data>
     <przypadkow>425</przypadkow>
   </dane>
-        <dane>
+  <dane>
     <data>21-03-20</data>
     <przypadkow>536</przypadkow>
+  </dane>
+  <dane>
+    <data>22-03-20</data>
+    <przypadkow>634</przypadkow>
+  </dane>
+    <dane>
+    <data>23-03-20</data>
+    <przypadkow>749</przypadkow>
   </dane>
 </statystyki>
