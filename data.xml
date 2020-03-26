@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 26-03-20 godzina: 01:59:28
+dnia: 26-03-20 godzina: 13:37:33
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 26-03-20 godzina: 01:59:28
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>1051</przypadki>
+    <przypadki>1085</przypadki>
     <zgony>14</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
     <przypadki>150</przypadki>
-    <zgony>5</zgony>
+    <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>27</przypadki>
+    <przypadki>31</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>63</przypadki>
+    <przypadki>72</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
@@ -40,7 +40,7 @@ dnia: 26-03-20 godzina: 01:59:28
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>56</przypadki>
+    <przypadki>59</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -55,7 +55,7 @@ dnia: 26-03-20 godzina: 01:59:28
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>43</przypadki>
+    <przypadki>44</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -65,32 +65,32 @@ dnia: 26-03-20 godzina: 01:59:28
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>22</przypadki>
+    <przypadki>25</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>107</przypadki>
+    <przypadki>113</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>14</przypadki>
+    <przypadki>15</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>33</przypadki>
+    <przypadki>36</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>57</przypadki>
+    <przypadki>60</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>31</przypadki>
-    <zgony></zgony>
+    <przypadki>32</przypadki>
+    <zgony>1</zgony>
   </dane>
 </zachorowania>
