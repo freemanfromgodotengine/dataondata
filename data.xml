@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 26-03-20 godzina: 16:49:54
+dnia: 27-03-20 godzina: 04:38:52
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 26-03-20 godzina: 16:49:54
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>1120</przypadki>
-    <zgony>14</zgony>
+    <przypadki>1221</przypadki>
+    <zgony>16</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>157</przypadki>
+    <przypadki>165</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -25,12 +25,12 @@ dnia: 26-03-20 godzina: 16:49:54
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>72</przypadki>
+    <przypadki>74</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>20</przypadki>
+    <przypadki>30</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -40,37 +40,37 @@ dnia: 26-03-20 godzina: 16:49:54
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>63</przypadki>
+    <przypadki>69</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>251</przypadki>
-    <zgony>1</zgony>
+    <przypadki>291</przypadki>
+    <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>24</przypadki>
+    <przypadki>26</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>45</przypadki>
+    <przypadki>53</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>10</przypadki>
+    <przypadki>13</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>25</przypadki>
+    <przypadki>28</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>117</przypadki>
+    <przypadki>127</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
@@ -80,17 +80,17 @@ dnia: 26-03-20 godzina: 16:49:54
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>36</przypadki>
+    <przypadki>39</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>64</przypadki>
+    <przypadki>69</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>32</przypadki>
+    <przypadki>33</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
