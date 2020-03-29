@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 29-03-20 godzina: 18:56:24
+dnia: 29-03-20 godzina: 19:19:36
 </data>
 <zachorowania>
   <dane>
@@ -10,8 +10,8 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>1717</przypadki>
-    <zgony>19</zgony>
+    <przypadki>1771</przypadki>
+    <zgony>20</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
@@ -20,12 +20,12 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>37</przypadki>
+    <przypadki>47</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>99</przypadki>
+    <przypadki>101</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
@@ -35,12 +35,12 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>182</przypadki>
+    <przypadki>190</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>123</przypadki>
+    <przypadki>145</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -55,7 +55,7 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>71</przypadki>
+    <przypadki>76</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -65,13 +65,13 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>37</przypadki>
+    <przypadki>41</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
     <przypadki>187</przypadki>
-    <zgony>3</zgony>
+    <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -90,7 +90,7 @@ dnia: 29-03-20 godzina: 18:56:24
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>53</przypadki>
+    <przypadki>56</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
