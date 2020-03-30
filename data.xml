@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 30-03-20 godzina: 20:05:43
+dnia: 30-03-20 godzina: 20:57:13
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 30-03-20 godzina: 20:05:43
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>1984</przypadki>
-    <zgony>26</zgony>
+    <przypadki>2055</przypadki>
+    <zgony>31</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>243</przypadki>
+    <przypadki>258</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -25,8 +25,8 @@ dnia: 30-03-20 godzina: 20:05:43
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>111</przypadki>
-    <zgony>3</zgony>
+    <przypadki>114</przypadki>
+    <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
@@ -45,12 +45,12 @@ dnia: 30-03-20 godzina: 20:05:43
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>461</przypadki>
-    <zgony>4</zgony>
+    <przypadki>487</przypadki>
+    <zgony>7</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>51</przypadki>
+    <przypadki>54</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -70,8 +70,8 @@ dnia: 30-03-20 godzina: 20:05:43
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>203</przypadki>
-    <zgony>6</zgony>
+    <przypadki>209</przypadki>
+    <zgony>7</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 30-03-20 godzina: 20:05:43
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>115</przypadki>
+    <przypadki>132</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>58</przypadki>
+    <przypadki>59</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
