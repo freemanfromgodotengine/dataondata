@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 30-03-20 godzina: 14:25:53
+dnia: 30-03-20 godzina: 15:23:26
 </data>
 <zachorowania>
   <dane>
@@ -10,7 +10,7 @@ dnia: 30-03-20 godzina: 14:25:53
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>1905</przypadki>
+    <przypadki>1984</przypadki>
     <zgony>26</zgony>
   </dane>
   <dane>
@@ -20,7 +20,7 @@ dnia: 30-03-20 godzina: 14:25:53
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>47</przypadki>
+    <przypadki>72</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -35,12 +35,12 @@ dnia: 30-03-20 godzina: 14:25:53
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>190</przypadki>
+    <przypadki>202</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>155</przypadki>
+    <przypadki>174</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -50,22 +50,22 @@ dnia: 30-03-20 godzina: 14:25:53
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>43</przypadki>
+    <przypadki>51</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>76</przypadki>
+    <przypadki>80</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>32</przypadki>
+    <przypadki>36</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>46</przypadki>
+    <przypadki>48</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -85,12 +85,12 @@ dnia: 30-03-20 godzina: 14:25:53
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>111</przypadki>
+    <przypadki>115</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>57</przypadki>
+    <przypadki>58</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
