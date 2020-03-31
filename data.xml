@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 31-03-20 godzina: 19:51:45
+dnia: 31-03-20 godzina: 20:41:56
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 31-03-20 godzina: 19:51:45
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>2215</przypadki>
-    <zgony>32</zgony>
+    <przypadki>2311</przypadki>
+    <zgony>33</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>267</przypadki>
+    <przypadki>274</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -25,12 +25,12 @@ dnia: 31-03-20 godzina: 19:51:45
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>131</przypadki>
+    <przypadki>132</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>36</przypadki>
+    <przypadki>42</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -45,17 +45,17 @@ dnia: 31-03-20 godzina: 19:51:45
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>487</przypadki>
-    <zgony>7</zgony>
+    <przypadki>544</przypadki>
+    <zgony>8</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>66</przypadki>
+    <przypadki>70</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>93</przypadki>
+    <przypadki>95</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
@@ -65,17 +65,17 @@ dnia: 31-03-20 godzina: 19:51:45
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>52</przypadki>
+    <przypadki>54</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>255</przypadki>
+    <przypadki>264</przypadki>
     <zgony>8</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>46</przypadki>
+    <przypadki>49</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -85,12 +85,12 @@ dnia: 31-03-20 godzina: 19:51:45
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>145</przypadki>
+    <przypadki>148</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>67</przypadki>
+    <przypadki>69</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
