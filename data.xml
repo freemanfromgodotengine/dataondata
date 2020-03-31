@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 31-03-20 godzina: 14:13:12
+dnia: 31-03-20 godzina: 15:15:10
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>2132</przypadki>
-    <zgony>31</zgony>
+    <przypadki>2215</przypadki>
+    <zgony>32</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>261</przypadki>
+    <przypadki>267</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>72</przypadki>
+    <przypadki>76</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>121</przypadki>
+    <przypadki>131</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -35,12 +35,12 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>202</przypadki>
+    <przypadki>208</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>185</przypadki>
+    <przypadki>192</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
@@ -50,12 +50,12 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>54</przypadki>
+    <przypadki>66</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>80</przypadki>
+    <przypadki>93</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
@@ -65,13 +65,13 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>51</przypadki>
+    <przypadki>52</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>236</przypadki>
-    <zgony>7</zgony>
+    <przypadki>255</przypadki>
+    <zgony>8</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -80,7 +80,7 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>57</przypadki>
+    <przypadki>58</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -90,7 +90,7 @@ dnia: 31-03-20 godzina: 14:13:12
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>63</przypadki>
+    <przypadki>67</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
