@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 01-04-20 godzina: 06:56:54
+dnia: 01-04-20 godzina: 08:58:52
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 01-04-20 godzina: 06:56:54
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>2311</przypadki>
-    <zgony>33</zgony>
+    <przypadki>2347</przypadki>
+    <zgony>35</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>274</przypadki>
+    <przypadki>278</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -40,13 +40,13 @@ dnia: 01-04-20 godzina: 06:56:54
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>192</przypadki>
+    <przypadki>200</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
     <przypadki>544</przypadki>
-    <zgony>8</zgony>
+    <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
@@ -70,27 +70,27 @@ dnia: 01-04-20 godzina: 06:56:54
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>264</przypadki>
-    <zgony>8</zgony>
+    <przypadki>272</przypadki>
+    <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>49</przypadki>
+    <przypadki>50</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>58</przypadki>
+    <przypadki>59</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>148</przypadki>
+    <przypadki>158</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>69</przypadki>
+    <przypadki>73</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
