@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 01-04-20 godzina: 21:13:59
+dnia: 01-04-20 godzina: 22:08:52
 </data>
 <zachorowania>
   <dane>
@@ -10,23 +10,23 @@ dnia: 01-04-20 godzina: 21:13:59
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>2420</przypadki>
-    <zgony>36</zgony>
+    <przypadki>2554</przypadki>
+    <zgony>43</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>298</przypadki>
+    <przypadki>326</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>76</przypadki>
+    <przypadki>84</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>132</przypadki>
-    <zgony>4</zgony>
+    <przypadki>133</przypadki>
+    <zgony>5</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
@@ -36,7 +36,7 @@ dnia: 01-04-20 godzina: 21:13:59
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>221</przypadki>
-    <zgony></zgony>
+    <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
@@ -45,27 +45,27 @@ dnia: 01-04-20 godzina: 21:13:59
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>544</przypadki>
-    <zgony>9</zgony>
+    <przypadki>612</przypadki>
+    <zgony>11</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>73</przypadki>
+    <przypadki>75</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>100</przypadki>
+    <przypadki>104</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>44</przypadki>
+    <przypadki>47</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>56</przypadki>
+    <przypadki>60</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
@@ -80,17 +80,17 @@ dnia: 01-04-20 godzina: 21:13:59
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>59</przypadki>
+    <przypadki>61</przypadki>
     <zgony></zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>158</przypadki>
-    <zgony>3</zgony>
+    <przypadki>169</przypadki>
+    <zgony>6</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>76</przypadki>
+    <przypadki>79</przypadki>
     <zgony>1</zgony>
   </dane>
 </zachorowania>
