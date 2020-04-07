@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 07-04-20 godzina: 18:28:37
+dnia: 07-04-20 godzina: 19:25:05
 </data>
 <zachorowania>
   <dane>
@@ -10,7 +10,7 @@ dnia: 07-04-20 godzina: 18:28:37
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>4666</przypadki>
+    <przypadki>4848</przypadki>
     <zgony>129</zgony>
   </dane>
   <dane>
@@ -45,7 +45,7 @@ dnia: 07-04-20 godzina: 18:28:37
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>1065</przypadki>
+    <przypadki>1247</przypadki>
     <zgony>25</zgony>
   </dane>
   <dane>
