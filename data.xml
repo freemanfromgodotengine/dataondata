@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 14-04-20 godzina: 17:55:43
+dnia: 14-04-20 godzina: 18:54:08
 </data>
 <zachorowania>
   <dane>
@@ -10,18 +10,18 @@ dnia: 14-04-20 godzina: 17:55:43
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>7049</przypadki>
-    <zgony>251</zgony>
+    <przypadki>7202</przypadki>
+    <zgony>263</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>713</przypadki>
+    <przypadki>723</przypadki>
     <zgony>25</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>345</przypadki>
-    <zgony>8</zgony>
+    <przypadki>352</przypadki>
+    <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
@@ -35,22 +35,22 @@ dnia: 14-04-20 godzina: 17:55:43
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>551</przypadki>
-    <zgony>7</zgony>
+    <przypadki>567</przypadki>
+    <zgony>8</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>534</przypadki>
+    <przypadki>537</przypadki>
     <zgony>13</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>1688</przypadki>
-    <zgony>70</zgony>
+    <przypadki>1715</przypadki>
+    <zgony>75</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>187</przypadki>
+    <przypadki>206</przypadki>
     <zgony>7</zgony>
   </dane>
   <dane>
@@ -60,7 +60,7 @@ dnia: 14-04-20 godzina: 17:55:43
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>246</przypadki>
+    <przypadki>256</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
@@ -70,12 +70,12 @@ dnia: 14-04-20 godzina: 17:55:43
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>902</przypadki>
-    <zgony>49</zgony>
+    <przypadki>943</przypadki>
+    <zgony>52</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>142</przypadki>
+    <przypadki>154</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
@@ -85,12 +85,12 @@ dnia: 14-04-20 godzina: 17:55:43
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>677</przypadki>
-    <zgony>41</zgony>
+    <przypadki>683</przypadki>
+    <zgony>43</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>209</przypadki>
+    <przypadki>211</przypadki>
     <zgony>2</zgony>
   </dane>
 </zachorowania>
