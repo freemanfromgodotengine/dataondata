@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 18-04-20 godzina: 17:29:54
+dnia: 18-04-20 godzina: 18:26:49
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 18-04-20 godzina: 17:29:54
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>8563</przypadki>
-    <zgony>339</zgony>
+    <przypadki>8742</przypadki>
+    <zgony>347</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>936</przypadki>
+    <przypadki>949</przypadki>
     <zgony>30</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>395</przypadki>
-    <zgony>15</zgony>
+    <przypadki>398</przypadki>
+    <zgony>16</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>292</przypadki>
+    <przypadki>293</przypadki>
     <zgony>10</zgony>
   </dane>
   <dane>
@@ -35,47 +35,47 @@ dnia: 18-04-20 godzina: 17:29:54
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>607</przypadki>
+    <przypadki>640</przypadki>
     <zgony>10</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>607</przypadki>
+    <przypadki>630</przypadki>
     <zgony>16</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>1883</przypadki>
-    <zgony>100</zgony>
+    <przypadki>1936</przypadki>
+    <zgony>107</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>267</przypadki>
-    <zgony>14</zgony>
+    <przypadki>271</przypadki>
+    <zgony>13</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>255</przypadki>
+    <przypadki>259</przypadki>
     <zgony>15</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>312</przypadki>
+    <przypadki>316</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>206</przypadki>
+    <przypadki>207</przypadki>
     <zgony>2</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>1254</przypadki>
-    <zgony>68</zgony>
+    <przypadki>1273</przypadki>
+    <zgony>69</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>194</przypadki>
+    <przypadki>203</przypadki>
     <zgony>4</zgony>
   </dane>
   <dane>
@@ -90,7 +90,7 @@ dnia: 18-04-20 godzina: 17:29:54
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>237</przypadki>
+    <przypadki>249</przypadki>
     <zgony>2</zgony>
   </dane>
 </zachorowania>
