@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 23-04-20 godzina: 10:05:46
+dnia: 23-04-20 godzina: 11:06:15
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 23-04-20 godzina: 10:05:46
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>10169</przypadki>
-    <zgony>426</zgony>
+    <przypadki>10346</przypadki>
+    <zgony>435</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>1144</przypadki>
+    <przypadki>1173</przypadki>
     <zgony>36</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>452</przypadki>
+    <przypadki>460</przypadki>
     <zgony>20</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>332</przypadki>
+    <przypadki>336</przypadki>
     <zgony>10</zgony>
   </dane>
   <dane>
@@ -36,11 +36,11 @@ dnia: 23-04-20 godzina: 10:05:46
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>765</przypadki>
-    <zgony>12</zgony>
+    <zgony>15</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>734</przypadki>
+    <przypadki>749</przypadki>
     <zgony>21</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 23-04-20 godzina: 10:05:46
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>324</przypadki>
+    <przypadki>330</przypadki>
     <zgony>15</zgony>
   </dane>
   <dane>
@@ -60,23 +60,23 @@ dnia: 23-04-20 godzina: 10:05:46
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>335</przypadki>
+    <przypadki>337</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>231</przypadki>
+    <przypadki>243</przypadki>
     <zgony>3</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>1614</przypadki>
-    <zgony>83</zgony>
+    <przypadki>1635</przypadki>
+    <zgony>85</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>247</przypadki>
-    <zgony>4</zgony>
+    <przypadki>248</przypadki>
+    <zgony>6</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 23-04-20 godzina: 10:05:46
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1099</przypadki>
-    <zgony>66</zgony>
+    <przypadki>1164</przypadki>
+    <zgony>68</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>288</przypadki>
+    <przypadki>302</przypadki>
     <zgony>4</zgony>
   </dane>
 </zachorowania>
