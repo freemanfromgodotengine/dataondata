@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 24-04-20 godzina: 10:53:43
+dnia: 24-04-20 godzina: 11:43:25
 </data>
 <zachorowania>
   <dane>
@@ -92,25 +92,5 @@ dnia: 24-04-20 godzina: 10:53:43
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
     <przypadki>334</przypadki>
     <zgony>4</zgony>
-  </dane>
-  <dane>
-    <wojewodztwo></wojewodztwo>
-    <przypadki></przypadki>
-    <zgony></zgony>
-  </dane>
-  <dane>
-    <wojewodztwo></wojewodztwo>
-    <przypadki></przypadki>
-    <zgony></zgony>
-  </dane>
-  <dane>
-    <wojewodztwo></wojewodztwo>
-    <przypadki></przypadki>
-    <zgony></zgony>
-  </dane>
-  <dane>
-    <wojewodztwo>https://prezentacja.redakcja.www.gov.pl/redakcja/internal-files</wojewodztwo>
-    <przypadki></przypadki>
-    <zgony></zgony>
   </dane>
 </zachorowania>
