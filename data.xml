@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 01-05-20 godzina: 13:32:27
+dnia: 01-05-20 godzina: 14:31:48
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 01-05-20 godzina: 13:32:27
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>12877</przypadki>
-    <zgony>644</zgony>
+    <przypadki>13105</przypadki>
+    <zgony>651</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>1563</przypadki>
+    <przypadki>1580</przypadki>
     <zgony>48</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>544</przypadki>
+    <przypadki>550</przypadki>
     <zgony>28</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>360</przypadki>
+    <przypadki>365</przypadki>
     <zgony>13</zgony>
   </dane>
   <dane>
@@ -35,12 +35,12 @@ dnia: 01-05-20 godzina: 13:32:27
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>954</przypadki>
-    <zgony>31</zgony>
+    <przypadki>972</przypadki>
+    <zgony>34</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>897</przypadki>
+    <przypadki>913</przypadki>
     <zgony>30</zgony>
   </dane>
   <dane>
@@ -50,28 +50,28 @@ dnia: 01-05-20 godzina: 13:32:27
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>394</przypadki>
+    <przypadki>398</przypadki>
     <zgony>28</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>329</przypadki>
+    <przypadki>337</przypadki>
     <zgony>23</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
     <przypadki>375</przypadki>
-    <zgony>3</zgony>
+    <zgony>4</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>428</przypadki>
-    <zgony>11</zgony>
+    <przypadki>434</przypadki>
+    <zgony>12</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>2239</przypadki>
-    <zgony>118</zgony>
+    <przypadki>2380</przypadki>
+    <zgony>120</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 01-05-20 godzina: 13:32:27
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1441</przypadki>
+    <przypadki>1443</przypadki>
     <zgony>86</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>396</przypadki>
+    <przypadki>401</przypadki>
     <zgony>10</zgony>
   </dane>
 </zachorowania>
