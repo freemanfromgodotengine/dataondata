@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 05-05-20 godzina: 14:57:56
+dnia: 05-05-20 godzina: 15:52:10
 </data>
 <zachorowania>
   <dane>
@@ -36,7 +36,7 @@ dnia: 05-05-20 godzina: 14:57:56
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>1068</przypadki>
-    <zgony>34</zgony>
+    <zgony>35</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
@@ -51,7 +51,7 @@ dnia: 05-05-20 godzina: 14:57:56
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
     <przypadki>439</przypadki>
-    <zgony>29</zgony>
+    <zgony>30</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
@@ -71,7 +71,7 @@ dnia: 05-05-20 godzina: 14:57:56
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
     <przypadki>2755</przypadki>
-    <zgony>133</zgony>
+    <zgony>130</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -86,7 +86,7 @@ dnia: 05-05-20 godzina: 14:57:56
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
     <przypadki>1590</przypadki>
-    <zgony>95</zgony>
+    <zgony>96</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
