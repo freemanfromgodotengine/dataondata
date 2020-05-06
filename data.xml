@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 06-05-20 godzina: 17:31:56
+dnia: 06-05-20 godzina: 18:27:53
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 06-05-20 godzina: 17:31:56
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>14647</przypadki>
-    <zgony>723</zgony>
+    <przypadki>14740</przypadki>
+    <zgony>733</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>1786</przypadki>
+    <przypadki>1789</przypadki>
     <zgony>57</zgony>
   </dane>
   <dane>
@@ -35,23 +35,23 @@ dnia: 06-05-20 godzina: 17:31:56
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1088</przypadki>
+    <przypadki>1115</przypadki>
     <zgony>36</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1008</przypadki>
+    <przypadki>1009</przypadki>
     <zgony>32</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>2631</przypadki>
-    <zgony>214</zgony>
+    <przypadki>2673</przypadki>
+    <zgony>215</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
     <przypadki>450</przypadki>
-    <zgony>30</zgony>
+    <zgony>31</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
@@ -60,23 +60,23 @@ dnia: 06-05-20 godzina: 17:31:56
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>379</przypadki>
+    <przypadki>380</przypadki>
     <zgony>6</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
     <przypadki>460</przypadki>
-    <zgony>20</zgony>
+    <zgony>21</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>2935</przypadki>
-    <zgony>133</zgony>
+    <przypadki>2947</przypadki>
+    <zgony>138</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
     <przypadki>300</przypadki>
-    <zgony>9</zgony>
+    <zgony>10</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 06-05-20 godzina: 17:31:56
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1610</przypadki>
+    <przypadki>1616</przypadki>
     <zgony>102</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>451</przypadki>
-    <zgony>14</zgony>
+    <przypadki>452</przypadki>
+    <zgony>15</zgony>
   </dane>
 </zachorowania>
