@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 08-05-20 godzina: 17:14:51
+dnia: 08-05-20 godzina: 18:14:52
 </data>
 <zachorowania>
   <dane>
@@ -10,18 +10,18 @@ dnia: 08-05-20 godzina: 17:14:51
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>15200</przypadki>
-    <zgony>756</zgony>
+    <przypadki>15366</przypadki>
+    <zgony>776</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>1 847</przypadki>
-    <zgony>59</zgony>
+    <przypadki>1 870</przypadki>
+    <zgony>66</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
     <przypadki>571</przypadki>
-    <zgony>31</zgony>
+    <zgony>32</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
@@ -35,23 +35,23 @@ dnia: 08-05-20 godzina: 17:14:51
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1 157</przypadki>
-    <zgony>39</zgony>
+    <przypadki>1 150</przypadki>
+    <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1 028</przypadki>
+    <przypadki>1 033</przypadki>
     <zgony>33</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>2 709</przypadki>
-    <zgony>217</zgony>
+    <przypadki>2 731</przypadki>
+    <zgony>219</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>468</przypadki>
-    <zgony>32</zgony>
+    <przypadki>475</przypadki>
+    <zgony>33</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
@@ -60,23 +60,23 @@ dnia: 08-05-20 godzina: 17:14:51
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>381</przypadki>
+    <przypadki>383</przypadki>
     <zgony>7</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
     <przypadki>477</przypadki>
-    <zgony>22</zgony>
+    <zgony>23</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>3 134</przypadki>
-    <zgony>143</zgony>
+    <przypadki>3 242</przypadki>
+    <zgony>146</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>311</przypadki>
-    <zgony>10</zgony>
+    <przypadki>312</przypadki>
+    <zgony>11</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
@@ -85,8 +85,8 @@ dnia: 08-05-20 godzina: 17:14:51
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1 650</przypadki>
-    <zgony>105</zgony>
+    <przypadki>1 655</przypadki>
+    <zgony>108</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
