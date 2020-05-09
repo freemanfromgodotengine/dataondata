@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 09-05-20 godzina: 10:04:49
+dnia: 09-05-20 godzina: 11:00:40
 </data>
 <zachorowania>
   <dane>
@@ -10,22 +10,22 @@ dnia: 09-05-20 godzina: 10:04:49
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>15366</przypadki>
-    <zgony>776</zgony>
+    <przypadki>15510</przypadki>
+    <zgony>777</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>1 870</przypadki>
+    <przypadki>1 889</przypadki>
     <zgony>66</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>571</przypadki>
+    <przypadki>572</przypadki>
     <zgony>32</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>384</przypadki>
+    <przypadki>386</przypadki>
     <zgony>14</zgony>
   </dane>
   <dane>
@@ -40,7 +40,7 @@ dnia: 09-05-20 godzina: 10:04:49
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1 033</przypadki>
+    <przypadki>1 042</przypadki>
     <zgony>33</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 09-05-20 godzina: 10:04:49
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>475</przypadki>
+    <przypadki>478</przypadki>
     <zgony>33</zgony>
   </dane>
   <dane>
@@ -70,27 +70,27 @@ dnia: 09-05-20 godzina: 10:04:49
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>3 242</przypadki>
+    <przypadki>3 323</przypadki>
     <zgony>146</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>312</przypadki>
+    <przypadki>320</przypadki>
     <zgony>11</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>157</przypadki>
+    <przypadki>160</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1 655</przypadki>
-    <zgony>108</zgony>
+    <przypadki>1 670</przypadki>
+    <zgony>109</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>464</przypadki>
+    <przypadki>467</przypadki>
     <zgony>16</zgony>
   </dane>
 </zachorowania>
