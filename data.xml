@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 12-05-20 godzina: 11:35:14
+dnia: 12-05-20 godzina: 12:31:54
 </data>
 <zachorowania>
   <dane>
@@ -46,7 +46,7 @@ dnia: 12-05-20 godzina: 11:35:14
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
     <przypadki>2 808</przypadki>
-    <zgony>224</zgony>
+    <zgony>222</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
@@ -86,7 +86,7 @@ dnia: 12-05-20 godzina: 11:35:14
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
     <przypadki>1 705</przypadki>
-    <zgony>121</zgony>
+    <zgony>123</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
