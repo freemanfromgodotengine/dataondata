@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 15-05-20 godzina: 18:16:29
+dnia: 15-05-20 godzina: 19:07:47
 </data>
 <zachorowania>
   <dane>
@@ -11,17 +11,17 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
     <przypadki>18016</przypadki>
-    <zgony>893</zgony>
+    <zgony>907</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
     <przypadki>2141</przypadki>
-    <zgony>82</zgony>
+    <zgony>89</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
     <przypadki>581</przypadki>
-    <zgony>41</zgony>
+    <zgony>42</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
@@ -36,7 +36,7 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>1227</przypadki>
-    <zgony>45</zgony>
+    <zgony>46</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
@@ -51,7 +51,7 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
     <przypadki>527</przypadki>
-    <zgony>38</zgony>
+    <zgony>39</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
@@ -61,7 +61,7 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
     <przypadki>387</przypadki>
-    <zgony>8</zgony>
+    <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
@@ -76,7 +76,7 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
     <przypadki>340</przypadki>
-    <zgony>16</zgony>
+    <zgony>17</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
@@ -86,11 +86,11 @@ dnia: 15-05-20 godzina: 18:16:29
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
     <przypadki>1752</przypadki>
-    <zgony>135</zgony>
+    <zgony>136</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
     <przypadki>491</przypadki>
-    <zgony>17</zgony>
+    <zgony>18</zgony>
   </dane>
 </zachorowania>
