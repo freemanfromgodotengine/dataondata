@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 16-05-20 godzina: 17:44:56
+dnia: 16-05-20 godzina: 18:39:31
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 16-05-20 godzina: 17:44:56
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>18184</przypadki>
-    <zgony>912</zgony>
+    <przypadki>18257</przypadki>
+    <zgony>915</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2151</przypadki>
+    <przypadki>2160</przypadki>
     <zgony>89</zgony>
   </dane>
   <dane>
@@ -35,22 +35,22 @@ dnia: 16-05-20 godzina: 17:44:56
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1227</przypadki>
+    <przypadki>1234</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1121</przypadki>
+    <przypadki>1124</przypadki>
     <zgony>37</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>2930</przypadki>
-    <zgony>230</zgony>
+    <przypadki>2949</przypadki>
+    <zgony>231</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>533</przypadki>
+    <przypadki>535</przypadki>
     <zgony>39</zgony>
   </dane>
   <dane>
@@ -65,12 +65,12 @@ dnia: 16-05-20 godzina: 17:44:56
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>494</przypadki>
+    <przypadki>500</przypadki>
     <zgony>28</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>5132</przypadki>
+    <przypadki>5159</przypadki>
     <zgony>175</zgony>
   </dane>
   <dane>
@@ -86,7 +86,7 @@ dnia: 16-05-20 godzina: 17:44:56
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
     <przypadki>1757</przypadki>
-    <zgony>136</zgony>
+    <zgony>138</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
