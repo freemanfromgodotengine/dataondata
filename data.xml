@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 17-05-20 godzina: 17:27:46
+dnia: 17-05-20 godzina: 18:18:45
 </data>
 <zachorowania>
   <dane>
@@ -10,18 +10,18 @@ dnia: 17-05-20 godzina: 17:27:46
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>18394</przypadki>
-    <zgony>919</zgony>
+    <przypadki>18529</przypadki>
+    <zgony>925</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2164</przypadki>
+    <przypadki>2166</przypadki>
     <zgony>89</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
     <przypadki>582</przypadki>
-    <zgony>42</zgony>
+    <zgony>43</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
@@ -35,22 +35,22 @@ dnia: 17-05-20 godzina: 17:27:46
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1234</przypadki>
+    <przypadki>1240</przypadki>
     <zgony>48</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1127</przypadki>
-    <zgony>38</zgony>
+    <przypadki>1128</przypadki>
+    <zgony>39</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>2949</przypadki>
-    <zgony>231</zgony>
+    <przypadki>2970</przypadki>
+    <zgony>232</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>543</przypadki>
+    <przypadki>544</przypadki>
     <zgony>39</zgony>
   </dane>
   <dane>
@@ -61,7 +61,7 @@ dnia: 17-05-20 godzina: 17:27:46
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
     <przypadki>388</przypadki>
-    <zgony>8</zgony>
+    <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
@@ -70,8 +70,8 @@ dnia: 17-05-20 godzina: 17:27:46
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>5251</przypadki>
-    <zgony>176</zgony>
+    <przypadki>5339</przypadki>
+    <zgony>178</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 17-05-20 godzina: 17:27:46
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1782</przypadki>
+    <przypadki>1797</przypadki>
     <zgony>139</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>493</przypadki>
+    <przypadki>494</przypadki>
     <zgony>18</zgony>
   </dane>
 </zachorowania>
