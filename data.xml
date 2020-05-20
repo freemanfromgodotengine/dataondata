@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 20-05-20 godzina: 16:56:55
+dnia: 20-05-20 godzina: 17:54:49
 </data>
 <zachorowania>
   <dane>
@@ -10,17 +10,17 @@ dnia: 20-05-20 godzina: 16:56:55
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>19569</przypadki>
-    <zgony>953</zgony>
+    <przypadki>19739</przypadki>
+    <zgony>962</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2267</przypadki>
-    <zgony>93</zgony>
+    <przypadki>2276</przypadki>
+    <zgony>94</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>583</przypadki>
+    <przypadki>584</przypadki>
     <zgony>44</zgony>
   </dane>
   <dane>
@@ -35,7 +35,7 @@ dnia: 20-05-20 godzina: 16:56:55
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1257</przypadki>
+    <przypadki>1273</przypadki>
     <zgony>51</zgony>
   </dane>
   <dane>
@@ -45,13 +45,13 @@ dnia: 20-05-20 godzina: 16:56:55
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>3040</przypadki>
-    <zgony>237</zgony>
+    <przypadki>3082</przypadki>
+    <zgony>242</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>563</przypadki>
-    <zgony>41</zgony>
+    <przypadki>568</przypadki>
+    <zgony>43</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
@@ -60,23 +60,23 @@ dnia: 20-05-20 godzina: 16:56:55
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>404</przypadki>
+    <przypadki>405</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>507</przypadki>
+    <przypadki>508</przypadki>
     <zgony>29</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>5989</przypadki>
+    <przypadki>6082</przypadki>
     <zgony>182</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>355</przypadki>
-    <zgony>19</zgony>
+    <przypadki>357</przypadki>
+    <zgony>20</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
