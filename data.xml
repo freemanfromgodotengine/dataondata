@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 22-05-20 godzina: 09:53:24
+dnia: 22-05-20 godzina: 10:43:07
 </data>
 <zachorowania>
   <dane>
@@ -10,27 +10,27 @@ dnia: 22-05-20 godzina: 09:53:24
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>20143</przypadki>
-    <zgony>972</zgony>
+    <przypadki>20379</przypadki>
+    <zgony>973</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2295</przypadki>
+    <przypadki>2314</przypadki>
     <zgony>94</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>587</przypadki>
+    <przypadki>589</przypadki>
     <zgony>44</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>417</przypadki>
+    <przypadki>420</przypadki>
     <zgony>15</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>95</przypadki>
+    <przypadki>97</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
@@ -40,7 +40,7 @@ dnia: 22-05-20 godzina: 09:53:24
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1165</przypadki>
+    <przypadki>1166</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 22-05-20 godzina: 09:53:24
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>576</przypadki>
+    <przypadki>586</przypadki>
     <zgony>43</zgony>
   </dane>
   <dane>
@@ -60,22 +60,22 @@ dnia: 22-05-20 godzina: 09:53:24
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>405</przypadki>
+    <przypadki>409</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>513</przypadki>
+    <przypadki>517</przypadki>
     <zgony>29</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>6333</przypadki>
-    <zgony>186</zgony>
+    <przypadki>6501</przypadki>
+    <zgony>187</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>361</przypadki>
+    <przypadki>366</przypadki>
     <zgony>20</zgony>
   </dane>
   <dane>
@@ -85,12 +85,12 @@ dnia: 22-05-20 godzina: 09:53:24
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>1925</przypadki>
+    <przypadki>1941</przypadki>
     <zgony>143</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>515</przypadki>
+    <przypadki>517</przypadki>
     <zgony>18</zgony>
   </dane>
 </zachorowania>
