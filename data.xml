@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 26-05-20 godzina: 09:17:52
+dnia: 26-05-20 godzina: 10:17:03
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 26-05-20 godzina: 09:17:52
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>21631</przypadki>
-    <zgony>1007</zgony>
+    <przypadki>21867</przypadki>
+    <zgony>1013</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2455</przypadki>
+    <przypadki>2465</przypadki>
     <zgony>98</zgony>
   </dane>
   <dane>
@@ -25,7 +25,7 @@ dnia: 26-05-20 godzina: 09:17:52
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>446</przypadki>
+    <przypadki>449</przypadki>
     <zgony>15</zgony>
   </dane>
   <dane>
@@ -36,11 +36,11 @@ dnia: 26-05-20 godzina: 09:17:52
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>1362</przypadki>
-    <zgony>58</zgony>
+    <zgony>61</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1176</przypadki>
+    <przypadki>1179</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 26-05-20 godzina: 09:17:52
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>598</przypadki>
+    <przypadki>601</przypadki>
     <zgony>45</zgony>
   </dane>
   <dane>
@@ -60,32 +60,32 @@ dnia: 26-05-20 godzina: 09:17:52
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>423</przypadki>
+    <przypadki>427</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>540</przypadki>
-    <zgony>30</zgony>
+    <przypadki>541</przypadki>
+    <zgony>32</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>7140</przypadki>
+    <przypadki>7327</przypadki>
     <zgony>192</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>392</przypadki>
-    <zgony>20</zgony>
+    <przypadki>399</przypadki>
+    <zgony>21</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>175</przypadki>
+    <przypadki>179</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2040</przypadki>
+    <przypadki>2054</przypadki>
     <zgony>146</zgony>
   </dane>
   <dane>
