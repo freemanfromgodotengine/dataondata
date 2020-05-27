@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 27-05-20 godzina: 17:33:04
+dnia: 27-05-20 godzina: 18:32:30
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 27-05-20 godzina: 17:33:04
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>22303</przypadki>
-    <zgony>1025</zgony>
+    <przypadki>22473</przypadki>
+    <zgony>1028</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2497</przypadki>
+    <przypadki>2512</przypadki>
     <zgony>101</zgony>
   </dane>
   <dane>
@@ -35,22 +35,22 @@ dnia: 27-05-20 godzina: 17:33:04
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1384</przypadki>
-    <zgony>62</zgony>
+    <przypadki>1412</przypadki>
+    <zgony>63</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1180</przypadki>
+    <przypadki>1181</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>3359</przypadki>
+    <przypadki>3396</przypadki>
     <zgony>256</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>603</przypadki>
+    <przypadki>610</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
@@ -60,22 +60,22 @@ dnia: 27-05-20 godzina: 17:33:04
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>432</przypadki>
+    <przypadki>439</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
     <przypadki>546</przypadki>
-    <zgony>32</zgony>
+    <zgony>33</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>7520</przypadki>
-    <zgony>194</zgony>
+    <przypadki>7590</przypadki>
+    <zgony>195</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>404</przypadki>
+    <przypadki>408</przypadki>
     <zgony>21</zgony>
   </dane>
   <dane>
@@ -85,7 +85,7 @@ dnia: 27-05-20 godzina: 17:33:04
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2117</przypadki>
+    <przypadki>2118</przypadki>
     <zgony>147</zgony>
   </dane>
   <dane>
