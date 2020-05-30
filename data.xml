@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 30-05-20 godzina: 09:45:42
+dnia: 30-05-20 godzina: 10:41:29
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>23155</przypadki>
+    <przypadki>23376</przypadki>
     <zgony>1051</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2556</przypadki>
+    <przypadki>2570</przypadki>
     <zgony>102</zgony>
   </dane>
   <dane>
@@ -30,7 +30,7 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>114</przypadki>
+    <przypadki>116</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
@@ -40,7 +40,7 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1199</przypadki>
+    <przypadki>1203</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>631</przypadki>
+    <przypadki>642</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
@@ -60,7 +60,7 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>445</przypadki>
+    <przypadki>448</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
@@ -70,12 +70,12 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>7919</przypadki>
+    <przypadki>8097</przypadki>
     <zgony>204</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>439</przypadki>
+    <przypadki>444</przypadki>
     <zgony>22</zgony>
   </dane>
   <dane>
@@ -90,7 +90,7 @@ dnia: 30-05-20 godzina: 09:45:42
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>531</przypadki>
+    <przypadki>535</przypadki>
     <zgony>19</zgony>
   </dane>
 </zachorowania>
