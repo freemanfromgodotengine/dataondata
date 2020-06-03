@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 03-06-20 godzina: 16:52:39
+dnia: 03-06-20 godzina: 17:48:11
 </data>
 <zachorowania>
   <dane>
@@ -10,17 +10,17 @@ dnia: 03-06-20 godzina: 16:52:39
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>24545</przypadki>
-    <zgony>1102</zgony>
+    <przypadki>24687</przypadki>
+    <zgony>1115</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2642</przypadki>
-    <zgony>105</zgony>
+    <przypadki>2649</przypadki>
+    <zgony>112</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>594</przypadki>
+    <przypadki>595</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
@@ -30,37 +30,37 @@ dnia: 03-06-20 godzina: 16:52:39
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>121</przypadki>
+    <przypadki>122</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>1613</przypadki>
+    <przypadki>1667</przypadki>
     <zgony>73</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1249</przypadki>
+    <przypadki>1257</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>3660</przypadki>
-    <zgony>275</zgony>
+    <przypadki>3688</przypadki>
+    <zgony>279</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>682</przypadki>
-    <zgony>48</zgony>
+    <przypadki>685</przypadki>
+    <zgony>49</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
     <przypadki>388</przypadki>
-    <zgony>35</zgony>
+    <zgony>36</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>468</przypadki>
+    <przypadki>473</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
@@ -70,12 +70,12 @@ dnia: 03-06-20 godzina: 16:52:39
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>8635</przypadki>
+    <przypadki>8666</przypadki>
     <zgony>224</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>498</przypadki>
+    <przypadki>502</przypadki>
     <zgony>22</zgony>
   </dane>
   <dane>
