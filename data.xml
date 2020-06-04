@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 04-06-20 godzina: 09:58:30
+dnia: 04-06-20 godzina: 10:58:20
 </data>
 <zachorowania>
   <dane>
@@ -10,17 +10,17 @@ dnia: 04-06-20 godzina: 09:58:30
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>24687</przypadki>
-    <zgony>1115</zgony>
+    <przypadki>24826</przypadki>
+    <zgony>1117</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2649</przypadki>
+    <przypadki>2652</przypadki>
     <zgony>112</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>595</przypadki>
+    <przypadki>596</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
@@ -36,11 +36,11 @@ dnia: 04-06-20 godzina: 09:58:30
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>1667</przypadki>
-    <zgony>73</zgony>
+    <zgony>74</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1257</przypadki>
+    <przypadki>1272</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
@@ -50,7 +50,7 @@ dnia: 04-06-20 godzina: 09:58:30
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>685</przypadki>
+    <przypadki>689</przypadki>
     <zgony>49</zgony>
   </dane>
   <dane>
@@ -60,7 +60,7 @@ dnia: 04-06-20 godzina: 09:58:30
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>473</przypadki>
+    <przypadki>474</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
@@ -70,12 +70,12 @@ dnia: 04-06-20 godzina: 09:58:30
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>8666</przypadki>
-    <zgony>224</zgony>
+    <przypadki>8770</przypadki>
+    <zgony>225</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>502</przypadki>
+    <przypadki>507</przypadki>
     <zgony>22</zgony>
   </dane>
   <dane>
@@ -85,7 +85,7 @@ dnia: 04-06-20 godzina: 09:58:30
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2206</przypadki>
+    <przypadki>2212</przypadki>
     <zgony>154</zgony>
   </dane>
   <dane>
