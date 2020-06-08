@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 08-06-20 godzina: 17:52:16
+dnia: 08-06-20 godzina: 18:51:43
 </data>
 <zachorowania>
   <dane>
@@ -10,17 +10,17 @@ dnia: 08-06-20 godzina: 17:52:16
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>26780</przypadki>
-    <zgony>1161</zgony>
+    <przypadki>27160</przypadki>
+    <zgony>1166</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2714</przypadki>
-    <zgony>117</zgony>
+    <przypadki>2724</przypadki>
+    <zgony>120</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
-    <przypadki>601</przypadki>
+    <przypadki>602</przypadki>
     <zgony>47</zgony>
   </dane>
   <dane>
@@ -35,42 +35,42 @@ dnia: 08-06-20 godzina: 17:52:16
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>2007</przypadki>
+    <przypadki>2084</przypadki>
     <zgony>82</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1360</przypadki>
+    <przypadki>1389</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>3879</przypadki>
-    <zgony>285</zgony>
+    <przypadki>3953</przypadki>
+    <zgony>286</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>736</przypadki>
+    <przypadki>737</przypadki>
     <zgony>49</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>394</przypadki>
+    <przypadki>396</przypadki>
     <zgony>38</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>519</przypadki>
+    <przypadki>524</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
     <przypadki>569</przypadki>
-    <zgony>36</zgony>
+    <zgony>37</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>9790</przypadki>
+    <przypadki>9965</przypadki>
     <zgony>241</zgony>
   </dane>
   <dane>
@@ -85,7 +85,7 @@ dnia: 08-06-20 godzina: 17:52:16
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2280</przypadki>
+    <przypadki>2286</przypadki>
     <zgony>157</zgony>
   </dane>
   <dane>
