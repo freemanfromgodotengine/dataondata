@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 08-06-20 godzina: 14:57:47
+dnia: 08-06-20 godzina: 15:57:05
 </data>
 <zachorowania>
   <dane>
@@ -71,12 +71,12 @@ dnia: 08-06-20 godzina: 14:57:47
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
     <przypadki>9790</przypadki>
-    <zgony>242</zgony>
+    <zgony>241</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
     <przypadki>555</przypadki>
-    <zgony>23</zgony>
+    <zgony>24</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
