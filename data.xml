@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 08-06-20 godzina: 11:04:29
+dnia: 08-06-20 godzina: 12:01:39
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 08-06-20 godzina: 11:04:29
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>26561</przypadki>
-    <zgony>1157</zgony>
+    <przypadki>26780</przypadki>
+    <zgony>1161</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2708</przypadki>
+    <przypadki>2714</przypadki>
     <zgony>117</zgony>
   </dane>
   <dane>
@@ -25,7 +25,7 @@ dnia: 08-06-20 godzina: 11:04:29
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>514</przypadki>
+    <przypadki>515</przypadki>
     <zgony>16</zgony>
   </dane>
   <dane>
@@ -36,11 +36,11 @@ dnia: 08-06-20 godzina: 11:04:29
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
     <przypadki>2007</przypadki>
-    <zgony>79</zgony>
+    <zgony>82</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1359</przypadki>
+    <przypadki>1360</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
@@ -50,17 +50,17 @@ dnia: 08-06-20 godzina: 11:04:29
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>728</przypadki>
+    <przypadki>736</przypadki>
     <zgony>49</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>391</przypadki>
-    <zgony>37</zgony>
+    <przypadki>394</przypadki>
+    <zgony>38</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>518</przypadki>
+    <przypadki>519</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
@@ -70,22 +70,22 @@ dnia: 08-06-20 godzina: 11:04:29
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>9639</przypadki>
+    <przypadki>9790</przypadki>
     <zgony>242</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>515</przypadki>
+    <przypadki>555</przypadki>
     <zgony>23</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>180</przypadki>
+    <przypadki>181</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2273</przypadki>
+    <przypadki>2280</przypadki>
     <zgony>157</zgony>
   </dane>
   <dane>
