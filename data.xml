@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 09-06-20 godzina: 17:30:29
+dnia: 09-06-20 godzina: 18:28:01
 </data>
 <zachorowania>
   <dane>
@@ -10,13 +10,13 @@ dnia: 09-06-20 godzina: 17:30:29
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>27365</przypadki>
-    <zgony>1172</zgony>
+    <przypadki>27560</przypadki>
+    <zgony>1183</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2728</przypadki>
-    <zgony>120</zgony>
+    <przypadki>2736</przypadki>
+    <zgony>122</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
@@ -30,32 +30,32 @@ dnia: 09-06-20 godzina: 17:30:29
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>128</przypadki>
+    <przypadki>129</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>2084</przypadki>
+    <przypadki>2129</przypadki>
     <zgony>86</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1415</przypadki>
+    <przypadki>1432</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>3953</przypadki>
-    <zgony>286</zgony>
+    <przypadki>4033</przypadki>
+    <zgony>285</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>743</przypadki>
+    <przypadki>747</przypadki>
     <zgony>49</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>396</przypadki>
+    <przypadki>407</przypadki>
     <zgony>38</zgony>
   </dane>
   <dane>
@@ -70,8 +70,8 @@ dnia: 09-06-20 godzina: 17:30:29
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>10091</przypadki>
-    <zgony>242</zgony>
+    <przypadki>10102</przypadki>
+    <zgony>252</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
@@ -85,12 +85,12 @@ dnia: 09-06-20 godzina: 17:30:29
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2287</przypadki>
+    <przypadki>2300</przypadki>
     <zgony>158</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>555</przypadki>
+    <przypadki>560</przypadki>
     <zgony>19</zgony>
   </dane>
 </zachorowania>
