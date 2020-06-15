@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 15-06-20 godzina: 12:29:48
+dnia: 15-06-20 godzina: 13:30:37
 </data>
 <zachorowania>
   <dane>
@@ -10,13 +10,13 @@ dnia: 15-06-20 godzina: 12:29:48
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>29392</przypadki>
-    <zgony>1247</zgony>
+    <przypadki>29 788</przypadki>
+    <zgony>1256</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2767</przypadki>
-    <zgony>125</zgony>
+    <przypadki>2 767</przypadki>
+    <zgony>126</zgony>
   </dane>
   <dane>
     <wojewodztwo>kujawsko-pomorskie</wojewodztwo>
@@ -25,57 +25,57 @@ dnia: 15-06-20 godzina: 12:29:48
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>543</przypadki>
+    <przypadki>544</przypadki>
     <zgony>16</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>132</przypadki>
+    <przypadki>133</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>2406</przypadki>
+    <przypadki>2 479</przypadki>
     <zgony>107</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1508</przypadki>
+    <przypadki>1 517</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>4358</przypadki>
-    <zgony>298</zgony>
+    <przypadki>4 414</przypadki>
+    <zgony>300</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>795</przypadki>
-    <zgony>49</zgony>
+    <przypadki>803</przypadki>
+    <zgony>50</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>458</przypadki>
+    <przypadki>472</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>608</przypadki>
+    <przypadki>621</przypadki>
     <zgony>9</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
     <przypadki>588</przypadki>
-    <zgony>37</zgony>
+    <zgony>38</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>10842</przypadki>
-    <zgony>266</zgony>
+    <przypadki>11 030</przypadki>
+    <zgony>269</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>611</przypadki>
+    <przypadki>625</przypadki>
     <zgony>26</zgony>
   </dane>
   <dane>
@@ -85,12 +85,12 @@ dnia: 15-06-20 godzina: 12:29:48
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2383</przypadki>
+    <przypadki>2 400</przypadki>
     <zgony>165</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>581</przypadki>
-    <zgony>19</zgony>
+    <przypadki>583</przypadki>
+    <zgony>20</zgony>
   </dane>
 </zachorowania>
