@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 22-06-20 godzina: 13:47:57
+dnia: 22-06-20 godzina: 14:47:18
 </data>
 <zachorowania>
   <dane>
@@ -25,12 +25,12 @@ dnia: 22-06-20 godzina: 13:47:57
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>597</przypadki>
+    <przypadki>606</przypadki>
     <zgony>17</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>154</przypadki>
+    <przypadki>145</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
