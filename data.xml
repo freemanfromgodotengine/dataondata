@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 23-06-20 godzina: 14:16:08
+dnia: 23-06-20 godzina: 15:13:01
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 23-06-20 godzina: 14:16:08
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>32527</przypadki>
+    <przypadki>32 527</przypadki>
     <zgony>1375</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2867</przypadki>
+    <przypadki>2 867</przypadki>
     <zgony>137</zgony>
   </dane>
   <dane>
@@ -25,27 +25,27 @@ dnia: 23-06-20 godzina: 14:16:08
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>601</przypadki>
+    <przypadki>610</przypadki>
     <zgony>17</zgony>
   </dane>
   <dane>
     <wojewodztwo>lubuskie</wojewodztwo>
-    <przypadki>154</przypadki>
+    <przypadki>145</przypadki>
     <zgony>0</zgony>
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>2918</przypadki>
+    <przypadki>2 918</przypadki>
     <zgony>145</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1624</przypadki>
+    <przypadki>1 624</przypadki>
     <zgony>44</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>4799</przypadki>
+    <przypadki>4 799</przypadki>
     <zgony>318</zgony>
   </dane>
   <dane>
@@ -70,7 +70,7 @@ dnia: 23-06-20 godzina: 14:16:08
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>12084</przypadki>
+    <przypadki>12 084</przypadki>
     <zgony>294</zgony>
   </dane>
   <dane>
@@ -85,7 +85,7 @@ dnia: 23-06-20 godzina: 14:16:08
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2501</przypadki>
+    <przypadki>2 501</przypadki>
     <zgony>170</zgony>
   </dane>
   <dane>
