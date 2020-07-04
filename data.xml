@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-dnia: 04-07-20 godzina: 10:45:32
+dnia: 04-07-20 godzina: 11:46:38
 </data>
 <zachorowania>
   <dane>
@@ -10,12 +10,12 @@ dnia: 04-07-20 godzina: 10:45:32
   </dane>
   <dane>
     <wojewodztwo>Cała Polska</wojewodztwo>
-    <przypadki>35 405</przypadki>
-    <zgony>1507</zgony>
+    <przypadki>35 719</przypadki>
+    <zgony>1512</zgony>
   </dane>
   <dane>
     <wojewodztwo>dolnośląskie</wojewodztwo>
-    <przypadki>2 933</przypadki>
+    <przypadki>2 936</przypadki>
     <zgony>149</zgony>
   </dane>
   <dane>
@@ -25,7 +25,7 @@ dnia: 04-07-20 godzina: 10:45:32
   </dane>
   <dane>
     <wojewodztwo>lubelskie</wojewodztwo>
-    <przypadki>668</przypadki>
+    <przypadki>678</przypadki>
     <zgony>18</zgony>
   </dane>
   <dane>
@@ -35,62 +35,62 @@ dnia: 04-07-20 godzina: 10:45:32
   </dane>
   <dane>
     <wojewodztwo>łódzkie</wojewodztwo>
-    <przypadki>3 210</przypadki>
-    <zgony>173</zgony>
+    <przypadki>3 231</przypadki>
+    <zgony>175</zgony>
   </dane>
   <dane>
     <wojewodztwo>małopolskie</wojewodztwo>
-    <przypadki>1 805</przypadki>
+    <przypadki>1 834</przypadki>
     <zgony>44</zgony>
   </dane>
   <dane>
     <wojewodztwo>mazowieckie</wojewodztwo>
-    <przypadki>5 124</przypadki>
-    <zgony>342</zgony>
+    <przypadki>5 152</przypadki>
+    <zgony>344</zgony>
   </dane>
   <dane>
     <wojewodztwo>opolskie</wojewodztwo>
-    <przypadki>964</przypadki>
+    <przypadki>967</przypadki>
     <zgony>51</zgony>
   </dane>
   <dane>
     <wojewodztwo>podkarpackie</wojewodztwo>
-    <przypadki>694</przypadki>
+    <przypadki>734</przypadki>
     <zgony>51</zgony>
   </dane>
   <dane>
     <wojewodztwo>podlaskie</wojewodztwo>
-    <przypadki>861</przypadki>
+    <przypadki>874</przypadki>
     <zgony>12</zgony>
   </dane>
   <dane>
     <wojewodztwo>pomorskie</wojewodztwo>
-    <przypadki>681</przypadki>
+    <przypadki>685</przypadki>
     <zgony>38</zgony>
   </dane>
   <dane>
     <wojewodztwo>śląskie</wojewodztwo>
-    <przypadki>13 083</przypadki>
-    <zgony>339</zgony>
+    <przypadki>13 176</przypadki>
+    <zgony>340</zgony>
   </dane>
   <dane>
     <wojewodztwo>świętokrzyskie</wojewodztwo>
-    <przypadki>822</przypadki>
+    <przypadki>824</przypadki>
     <zgony>40</zgony>
   </dane>
   <dane>
     <wojewodztwo>warmińsko-mazurskie</wojewodztwo>
-    <przypadki>267</przypadki>
+    <przypadki>271</przypadki>
     <zgony>1</zgony>
   </dane>
   <dane>
     <wojewodztwo>wielkopolskie</wojewodztwo>
-    <przypadki>2 850</przypadki>
+    <przypadki>2 907</przypadki>
     <zgony>178</zgony>
   </dane>
   <dane>
     <wojewodztwo>zachodniopomorskie</wojewodztwo>
-    <przypadki>613</przypadki>
+    <przypadki>620</przypadki>
     <zgony>22</zgony>
   </dane>
 </zachorowania>
